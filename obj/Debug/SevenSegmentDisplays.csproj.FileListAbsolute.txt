@@ -1,0 +1,7 @@
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\obj\Debug\SevenSegmentDisplays.csprojAssemblyReference.cache
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\obj\Debug\SevenSegmentDisplays.csproj.CoreCompileInputs.cache
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\bin\Debug\SevenSegmentDisplays.exe.config
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\bin\Debug\SevenSegmentDisplays.exe
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\bin\Debug\SevenSegmentDisplays.pdb
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\obj\Debug\SevenSegmentDisplays.exe
+E:\C#\SevenSegmentDisplays\SevenSegmentDisplays\obj\Debug\SevenSegmentDisplays.pdb
