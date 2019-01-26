@@ -22,7 +22,8 @@ After adding *I* and *O* to the banned list of letters, we get different answers
 3. three-and-a-halfpenny
 
 ## Context and Credits
-This was a small personal project used to help me learn C# and its regex function.
-It took a day and a half to complete. I learnt how to read files, catch exceptions, use C# lists, and use regular exceptions to match words. <br>
+This was a small personal project that took me a day and a half to complete.
+During development, I learnt how to read files, catch exceptions, use lists, and write regular expressions to match words in C#. <br>
+<br>
 words.txt and words_alpha.txt are courtesy of https://github.com/dwyl/english-words. <br>
-Project idea is courtesy of Tom Scott's video: https://www.youtube.com/watch?v=zp4BMR88260&list=PL96C35uN7xGIJfSACtrXjxKcatdThkuJh
+Project idea is courtesy of Tom Scott's video: [What's the Longest Word You can Write With Seven-Segment Displays?](https://www.youtube.com/watch?v=zp4BMR88260&list=PL96C35uN7xGIJfSACtrXjxKcatdThkuJh)
